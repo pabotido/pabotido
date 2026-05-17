@@ -15,15 +15,23 @@
 
 ---
 
-## 🎯 About Me & Goals
-- 🧠 I am currently diving deep into **Go (Golang)** and mastering **TypeScript** for modern development.
-- ⚡ **Learning Goal:** Enhancing my knowledge in Software Architecture, Microservices, and Advanced Database Management.
-- 🚀 **Target Projects:** 
-  - Building high-performance Backend APIs with Go & MongoDB/SQL Server.
-  - Designing responsive and aesthetic UI/UX web applications.
-- 🎨 Fun fact: Besides coding, I have a strong interest in graphic design and digital art.
+## 🎯 Strategic Roadmap & Long-term Goals
 
----
+> "The best way to predict the future is to invent it." 
+
+I don't just write code; I aim to build resilient, scalable, and high-performance software ecosystems. My technical journey is driven by a deep curiosity for system internals and a passion for seamless user experiences.
+
+### 🗺️ Technical Horizon (Where I am Heading)
+- 🏗️ **Distributed Systems & High Availability:** Mastering **Go** and advanced microservices patterns to build systems that can handle millions of concurrent requests with minimal latency.
+- 🗄️ **Data Engineering & Polyglot Persistence:** Moving beyond simple CRUD operations to master hybrid database architectures (combining **SQL Server** for relational integrity and **MongoDB** for high-throughput unstructured data).
+- 🔐 **System Performance & Security:** Leveraging my foundational roots in **C/C++** and **Java** to deeply understand memory management, multi-threading, and building secure-by-design software.
+- 🎨 **Engineering Meets Aesthetics:** Fusing my technical stack with my passion for graphic design (**Adobe Suite**) to pioneer the role of a Product Engineer—someone who bridges the gap between complex system architecture and pixel-perfect UX.
+
+### 🚀 Ultimate Milestones
+* [ ] Architecting and deploying a cloud-native, production-grade microservices platform from scratch.
+* [ ] Contributing to core open-source projects in the Go and backend infrastructure ecosystem.
+* [ ] Designing a complete, automated DevOps pipeline (CI/CD, Docker/Kubernetes) for secure, zero-downtime deployments.
+* [ ] Becoming a Tech Lead / Solution Architect capable of solving complex, large-scale enterprise problems.
 
 ## 💻 Tech Stack
 
