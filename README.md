@@ -41,6 +41,7 @@ I don't just write code; I aim to build resilient, scalable, and high-performanc
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![T-SQL](https://img.shields.io/badge/T--SQL-%2300758F.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ### 🌐 Frontend & Web Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
